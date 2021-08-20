@@ -17,5 +17,5 @@ def send_msg(jd_product_id):
     data = json.dumps({"msgtype": "text", "text": {
         "content": "crawler主线程出现异常{}".format(str(jd_product_id)),
         "mentioned_list": ["hongcongjin"], }})
-    url = 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d40e7d65-2ffc-4a69-b263-8413e73fcd1f'
+    url = 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=**************'
     requests.post(url, data, auth=('Content-Type', 'application/json'))
