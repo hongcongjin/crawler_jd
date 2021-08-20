@@ -1,0 +1,13 @@
+crawler_jd/__pycache__
+crawler_jd/.idea
+crawler_jd/settings_package/__pycache__
+crawler_jd/error.txt
+sub_crawler_jd
+crawler_jd/phone_jd
+crawler_jd/test.py
+crawler_jd/mysql_insert
+crawler_jd/log_test
+crawler_jd/jd_image
+crawler_jd/coupon/iphone_.py
+crawler_jd/coupon/logger.py
+crawler_jd/coupon/windows_jd_coupon.py
